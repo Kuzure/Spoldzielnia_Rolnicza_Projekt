@@ -1,0 +1,1 @@
+# Spoldzielnia_Rolnicza_Projekt
