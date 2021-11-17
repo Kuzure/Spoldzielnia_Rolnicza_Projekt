@@ -16,6 +16,8 @@ public class Comment {
     @Column(name = "id", nullable = false)
     private Long id;
 
+
+
     @Column(name = "comment")
     private String comment;
 
